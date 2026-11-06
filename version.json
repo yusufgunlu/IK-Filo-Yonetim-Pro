@@ -1,0 +1,13 @@
+{
+  "app_name": "İK ve Filo Yönetim Pro",
+  "version": "2.5.3",
+  "tag_name": "v2.5.3",
+  "release_title": "İK ve Filo Yönetim Pro v2.5.3",
+  "published_at": "2026-11-06T15:20:33+03:00",
+  "asset_name": "IK_Filo_Yonetim_Pro_Setup_v2.5.3.exe",
+  "asset_size": 52337877,
+  "sha256": "fe2ce49493735c7a2829a56be75c7ef1b8ed253052a91026c2fa173d167bd32a",
+  "download_url": "https://github.com/yusufgunlu/IK-Filo-Yonetim-Pro/releases/download/v2.5.3/IK_Filo_Yonetim_Pro_Setup_v2.5.3.exe",
+  "html_url": "https://github.com/yusufgunlu/IK-Filo-Yonetim-Pro/releases/tag/v2.5.3",
+  "release_notes": "İK ve Filo Yönetim Pro v2.5.3 Güncelleme Notları:\n• Otomatik Güncelleme Denetleyicisi Düzeltmesi: Hibrit arayüzde 'Güncellemeleri Denetle' butonunun yeni sürümleri anında algılayıp tek tıkla indirmesi sağlandı.\n• Masaüstü 'İK PRO' Klasör Açma Düzeltmesi (Win32 Shell API): Excel Puantaj, Bordro İcmali ve PDF raporları dışa aktarıldığında Belgeler yerine doğrudan Masaüstü\\İK PRO\\<Firma> altındaki ilgili klasörde dosyanın seçili açılması sağlandı.\n• WhatsApp PDF Belge Ekleme (Otomatik Windows Panosu CF_HDROP): WhatsApp ÜHP ve WhatsApp İhtar gönderimlerinde oluşturulan PDF belgesinin otomatik olarak Windows Panosuna kopyalanması (sohbette Ctrl+V ile anında ekleme) sağlandı.\n• Hakkında ekranındaki yönetici bağlantı/depo ayar paneli kaldırılarak arayüz sadeleştirildi.\n• Hibrit Masaüstü Mimarisi (Edge WebView2 + FastAPI SPA) ve konsolsuz (--windowed) .exe açılış kararlılığı."
+}
