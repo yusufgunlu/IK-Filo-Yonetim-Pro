@@ -1,13 +1,13 @@
 {
-  "app_name": "İK ve Filo Yönetim Pro",
-  "version": "2.5.4",
-  "tag_name": "v2.5.4",
-  "release_title": "İK ve Filo Yönetim Pro v2.5.4",
-  "published_at": "2026-11-09T13:49:09+03:00",
-  "asset_name": "IK_Filo_Yonetim_Pro_Setup_v2.5.4.exe",
-  "asset_size": 52358539,
-  "sha256": "88f409d3b39cd6645ea20c88c0dfef54abdc0f8e6c3d3f4ac8973924d435f8d7",
-  "download_url": "https://github.com/yusufgunlu/IK-Filo-Yonetim-Pro/releases/download/v2.5.4/IK_Filo_Yonetim_Pro_Setup_v2.5.4.exe",
-  "html_url": "https://github.com/yusufgunlu/IK-Filo-Yonetim-Pro/releases/tag/v2.5.4",
-  "release_notes": "İK ve Filo Yönetim Pro v2.5.4 Güncelleme Notları:\n• Yıllık İzin Bitiş ve İşe Dönüş Tarihi Otomatik Hesabı (4857 s.K. m.56): İzin formunda gün sayısı girildiğinde hafta tatili düzeni, resmî tatiller ve arife yarım günleri düşülerek bitiş ve işe dönüş tarihleri otomatik hesaplanır.\n• Kıdem ve İhbar Tazminatını Bordroya Yansıt Özelliği: Hesaplanan kıdem tazminatı (GV/SGK muaf, binde 7,59 DV tabi), ihbar tazminatı (SGK muaf, GV/DV tabi) ve isteğe bağlı yıllık izin ücreti tek tıkla seçili dönem puantajına, PDF Ücret Hesap Pusulasına, Excel Bordro İcmaline, MUHSGK (012 vergi kodu) ve Muhasebe Mahsup Fişine (770.04) yansıtılır.\n• Eksik Gün Maaş Düşümü Düzeltmesi ve Canlı Önizleme (5510 s.K. m.82/3): 31/30/28 günlük aylarda eksik gün (Üİ / R) girildiğinde SGK prim günü mevzuata uygun korunurken maktu ve asgari ücretlerde ücret hak ediş günü (30 − eksik gün) üzerinden maaş tutarı doğru düşülür, PEK alt sınırı farkı işveren payına eklenir ve puantaj tablosunda canlı maaş önizlemesi güncellenir."
+  "app_name": "G360",
+  "version": "3.0.0",
+  "tag_name": "v3.0.0",
+  "release_title": "G360 v3.0.0",
+  "published_at": "2026-11-16T22:08:26+03:00",
+  "asset_name": "IK_Filo_Yonetim_Pro_Setup_v3.0.0.exe",
+  "asset_size": 52729266,
+  "sha256": "81e5f1d73609f69a920e7f2a9f861fde4d52f6098a3f0bc5657ba3074ad00cd4",
+  "download_url": "https://github.com/yusufgunlu/IK-Filo-Yonetim-Pro/releases/download/v3.0.0/IK_Filo_Yonetim_Pro_Setup_v3.0.0.exe",
+  "html_url": "https://github.com/yusufgunlu/IK-Filo-Yonetim-Pro/releases/tag/v3.0.0",
+  "release_notes": "G360 v3.0.0 Büyük Sürüm Güncelleme Notları:\n• G360 Kurumsal ERP Kimliği ve Modüler Menü Mimarisi: Yenilenen G360 arayüzüyle açılır/kapanır Muhasebe, Satın Alma & Pazarlama ve Personel menü grupları.\n• Kapsamlı Kurumsal Muhasebe Modülü: Kasa & Banka hareketleri, çoklu döviz ve TCMB günlük kur entegrasyonu, Cari Hesap yönetimi (resmî Tahsilat/Tediye Makbuzu, Virman Fişi, Cari Ekstre PDF/Excel), Çek & Senet takibi, Stok & Günlük Hareketler ve UBL-TR e-Fatura XML/ZIP toplu içe aktarım ile otomatik cari/stok eşleştirme.\n• Satın Alma & Pazarlama (Ücretsiz Açık Harita & Web Keşif, Katalog ve İletişim) Modülü: Ücretli API anahtarı gerektirmeden hedef bölge ve ürün/sektör bazlı firma keşfi, firma web sitelerinden otomatik kurumsal mail ve telefon tarama, PDF/Excel raporlama, stok kartlarından Türkçe/İngilizce kurumsal Ürün Kataloğu PDF üretimi, ekli katalogla toplu SMTP E-posta ve WhatsApp iletişimi.\n• Dinamik Yıl/Mevzuat Parametreleri ve Bordro Geliştirmeleri: Yıllara göre esnek vergi/SGK parametre yönetimi, devir sihirbazı, kısmi süreli/stajyer/PEK tavan devri bordro iyileştirmeleri."
 }
